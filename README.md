@@ -1,5 +1,5 @@
 The problem statement for the project is defined here: https://joshhug.github.io/LeidenITP/assignments/assignment4/
-# Recursive-Merge-Sort-Creating-Classes
+# Recursive MergeSort & Creating-Classes
 Project Description
 
 This project is a comprehensive Python implementation that addresses the problem statement from Assignment 4 of Leiden ITP. The assignment focuses on the efficient sorting and management of a list of Person objects using a recursive merge sort algorithm. The project demonstrates the integration of object-oriented programming with algorithmic design.
